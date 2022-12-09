@@ -1,3 +1,4 @@
+![MasterHead](./bannertitle.jpg)
 <h1 align="center">Hi 👋, I'm Roby Putera</h1>
 <h3 align="center">A passionate Game Developer from Indonesia</h3>
 
