@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rbbyptr&label=Profile%20views&color=0e75b6&style=plastic" alt="rbbyptr" /> </p>
 
-- 🌱 I’m currently learning **Unity , Blender**
+- 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rbbyptr](https://github.com/rbbyptr)
 
