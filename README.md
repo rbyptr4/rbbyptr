@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rbbyptr](https://github.com/rbbyptr)
+- 👨‍💻 All of my projects are available at [https://github.com/rbyptr](https://github.com/rbbyptr)
 
 - 💬 Ask me about **Unity**
 
